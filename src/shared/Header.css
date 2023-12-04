@@ -1,0 +1,40 @@
+.main-header {
+    background-color: rgb(3, 93, 28);
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+}
+nav{
+
+    height:90px;
+    width: 100%;
+}
+.logo{
+    color: white;
+    font-size:35px;
+    font-style: italic;
+    line-height: 30px;
+    padding: 0 20px;
+    font-weight: bold;
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+nav ul li {
+    display: inline-block;
+    line-height: 30px;
+    margin:0 5px;
+    font-size: 25px;
+    padding: 0 15px;
+}
+nav ul li a{
+    text-decoration:none;
+    color: white;
+}
+nav ul li a:hover{
+    color: rgb(175, 255, 28);
+    cursor: pointer;
+}

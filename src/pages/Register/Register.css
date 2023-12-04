@@ -1,0 +1,35 @@
+.form{
+    height: 450px;
+}
+.hh2{
+    margin-top: 25px;
+}
+.name input[type="text"]{
+    top:100px;
+    left:50px;
+    
+}
+.us input[type="text"]{
+    top: 155px;
+}
+
+.ps input[type="password"]{
+    top: 170px;
+}
+.ph input[type="text"]{
+    top:260px;
+}
+.addr input[type="text"]{
+    top:310px;
+}
+.register-btn button{
+        position: absolute;
+        top: 365px;
+        left:110px;
+        width:130px;
+        height: 60px;
+        color:#fff;
+        border-radius: 15px;
+        font-size: 20px;
+        text-align: center;
+    }
